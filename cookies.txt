@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+start.microsoftapp.net	TRUE	/	FALSE	1999999999	_csrf	iXeyfubfWuohF297l3o9xV5Q
+start.microsoftapp.net	TRUE	/	FALSE	1999999999	ARRAffinity	82177b41d89d4b2dce789b4903a7e0dc0a76412697ac6069b750097059c09ed7
+
